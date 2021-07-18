@@ -23,9 +23,11 @@ dist/
 
 # IDE config
 .idea
+.vscode
 
 # Virtual environment
 venv
+venv_u
 
 # test
 test
